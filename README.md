@@ -7,29 +7,22 @@ Scot Thompson
 Chris Agwu
 
 Project Description/Outline
-We are looking at air pollution in two different cities, NYC and LA. LA has a higher concentration of EVs than NYC. Our hypothesis is LA will have lower air pollution and better health outcomes for their citizens.
+We are assessing the effects electric vehicles (EVs) have on health and air quality in California. We use a datset that has the registrations of all vehicles for the year 2018, and calculate the percentage of EVs by county. Our other data sets include: EPA data to find the pollution level by county, and US Census to get sociodemographic information by county.
 
 We will do 5 questions
-    1: the level of airpollution = a function of the number of electric cars in each city
-    2: the level of fossil fuels consumption = a function of the number of electric cars in each city
-    3: the number of electric vehicles in each city = a function of the demographics of each city (income, education, age)
-    4: the number of electric vehicles in each city over time
-    5: the number of respiratory claims= a function of the number of EV cars in each city
 
-Research Questions to Answer
-Motivation: climate change hurts the environment, does the increase of EV help (environment, human health, etc)
+1 Chris: A scatter plot and linear regression of level of pollution (y) by percentage of EVs (x) by county. This will be run with three different pollutant variables
 
-Who is looking for data sources:
+2 Ethan: A single t-test - breaking up the data into the top 10 counties with the highest percentage of EVs as our sample and comparing the average level of pollution of the entire state of California to see if they are statistically different. 
 
-EV-Chris
-Income/Education/Age - Scot
-Fossil Fuel Consumption-Ethan
-Health-Candice
-Pollution-city - Candice
+3 Scot: The sociodemographics of the top 10 counties with the highest % of EVs
+
+4 Candice: We will do a linear regression looking at the number of instances of upper respitory disease as our outcome variable (y) and the level of air pollution as our explanatory variable (x)
+
+
 
 
 Rough outline of presentation
-EV Trends over time, 2010-2020/demographics
 Air Pollutants
 Fossil Fuel Consumption
 Health
