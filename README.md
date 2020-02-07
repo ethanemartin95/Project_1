@@ -7,7 +7,7 @@ Scot Thompson
 Chris Agwu
 
 Project Description/Outline
-We are assessing the effects electric vehicles (EVs) have on health and air quality in California. We use a datset that has the registrations of all vehicles for the year 2018, and calculate the percentage of EVs by county. Our other data sets include: EPA data to find the pollution level by county, and US Census to get sociodemographic information by county.
+We are assessing the effects electric vehicles (EVs) have on health and air quality in California. We use a datset that has the registrations of all vehicles for the year 2018, and calculate the percentage of EVs by county. We use several sources to create several unique datasets. A write up of our results is listed in the output section
 
 We will do 5 questions
 
@@ -19,11 +19,13 @@ We will do 5 questions
 
 4 Candice: We will do a linear regression looking at the number of instances of upper respitory disease as our outcome variable (y) and the level of air pollution as our explanatory variable (x)
 
+Data Sources:
+Transportation Research Center at Argonne Laboratory 
+Alliance of Auto Manufacturers
+2018 U.S. Census Data
+Robert Wood Johnson Foundation/UW Population Health Institute
+EPA
+Zips to FIPS Crosswalk (HUD)
+California Health & Human Services Open Data
+CA.gov
 
-
-
-Rough outline of presentation
-Air Pollutants
-Fossil Fuel Consumption
-Health
-Conclusion
