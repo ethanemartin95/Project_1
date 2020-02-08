@@ -19,6 +19,12 @@ We will do 5 questions
 
 4 Candice: We will do a linear regression looking at the number of instances of upper respitory disease as our outcome variable (y) and the level of air pollution as our explanatory variable (x)
 
+How to navigate folders:
+The finalized code is under code folder called final_code
+The data sources are under folder data
+The saved PNG files of the output is under output folder
+Indivdual branch items/scrap code is under branch items
+
 Data Sources:
 Transportation Research Center at Argonne Laboratory 
 Alliance of Auto Manufacturers
