@@ -1,4 +1,4 @@
-# Project_1
+The Impact of EV on the Environment
 Project title: The Impact of EV on the Environment
 TEAM TESLA:
 Ethan Martin
